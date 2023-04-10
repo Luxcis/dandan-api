@@ -1,0 +1,6 @@
+--index https://mirrors.aliyun.com/pypi/simple/
+uvicorn
+fastapi
+arrow
+requests
+bs4
